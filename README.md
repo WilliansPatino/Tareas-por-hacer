@@ -42,19 +42,19 @@
   Listado de tareas
   
   
-  ```    
-  ======== Tareas =========
+```    
+======== Tareas =========                                                                                                 
   Seleccione una opción 
 =========================
-? ¿Qué desea hacer? 2 Listar todas las tareas
-
-1. Ventas Crear diseño :: Pendiente
-2. Programación Corregir codigo :: Completada/Concluido
-3. Node JS Investigar sobre inquirer (npm) :: Pendiente
-4. Cocina Marinar pollo :: Pendiente
-5. Sin clasificar Organizar Hortalizas :: Pendiente
-
-
+? ¿Qué desea hacer? 2 Listar todas las tareas                                                                             
+                                                                                                                          
+1. [Ventas] Crear diseño :: Pendiente                                                                                     
+2. [Programación] Corregir codigo :: Completada/Concluido                                                                 
+3. [Node JS] Investigar sobre inquirer (npm) :: Pendiente                                                                 
+4. [Cocina] Marinar pollo :: Pendiente                                                                                    
+5. [Sin clasificar] Organizar Hortalizas :: Pendiente                                                                     
+                                                                                                                          
+                                                                                                                          
 ? Pulse <ENTER> para continuar 
 
-  ```
+```
