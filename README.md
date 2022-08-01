@@ -1,5 +1,9 @@
 # Tareas-por-hacer
-    Aprendiendo NodeJS 
+
+    Aprendiendo NodeJS
+    
+    Curso: Node: De cero a experto de Fernando Herrera
+                
     
 ```
 ======== Tareas =========
@@ -17,7 +21,9 @@
 
 ```
 
-  Actualizado de la versión original.  Se agregó etiquetas a las tareas.
+  Refactorizado del código original del curso mencionado.
+  
+        - Se agregó un campo adicional para asignar etiquetas a las tareas.
   
   ```
   ======== Tareas =========
